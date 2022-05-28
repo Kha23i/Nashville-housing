@@ -5,7 +5,7 @@ March 2022
 
 [Data Source](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data). 
 
-In this Project I upload the Dataset to SQL from Microsoft Excel worksheet as a first step
+In this Project I upload the Dataset to SQL server from Microsoft Excel worksheet as a first step
 
 There are 56000 rows and 19 columns 
 
