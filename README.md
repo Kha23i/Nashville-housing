@@ -9,4 +9,4 @@ In this Project I upload the Dataset to SQL server from Microsoft Excel workshee
 
 There are 56000 rows and 19 columns 
 
-The main goal in this project is the clean data using queries that make the data easy to use in visualization step.
+The main goal in this project is the clean data using queries that make the data easy to use in the visualization step.
